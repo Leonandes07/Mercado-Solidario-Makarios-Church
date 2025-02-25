@@ -1,0 +1,11 @@
+cd C:\Users\leona\Desktop\App_TKinter\ #notebook
+cd G:\Outros computadores\MEGAWARE\Google Drive\Faculdade\UNIVESP\5° Período\Projeto Integrador II\App_TKinter
+#pc do trabalho
+
+.\venv\Scripts\Activate.ps1 
+
+python app_tkinter.py
+
+
+
+na linha 90 "C:/Users/Leone Fernandes/Desktop/App_TKinter/img.png" #reparar o caminho da imagem
